@@ -1,0 +1,20 @@
+.add-your-todo {
+    color: white;
+    width: 200px;
+}
+
+.add-your-todo-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.editable-card {
+    border-color: #2496ed;
+}
+
+.description {
+    height: 53px !important;
+    overflow: scroll;
+}

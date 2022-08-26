@@ -1,0 +1,83 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #2496ed;
+    font-size: 48px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #2496ed;
+}
+
+h5 {
+    display: flex;
+    justify-content: center;
+    color: #2496ed;
+}
+
+h7 {
+    display: flex;
+    justify-content: center;
+    color: #2496ed;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.dockerLogo {
+    width: 30%;
+}
+
+.logoWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.openAppButton {
+    background-color: #2496ed;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    min-width: 150px;
+}
+
+.openAppButtonWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.form-control {
+    color: #2496ed !important;
+    border-color: #1371C3 !important;
+}
+
+.card {
+    background-color: #cbe5ff !important;
+    width: 370px !important;
+    height: 228px !important;
+    border-color: #2496ed;
+}
+
+.card-title {
+    color: #1371C3;
+}
+
+.card-text {
+    color: #1371C3;
+}
+
+.card-footer {
+    background-color: #cbe5ff !important;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    width: 80px;
+}
+
+.btn-primary {
+    background-color: #2496ed;  
+}
