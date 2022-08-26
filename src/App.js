@@ -9,7 +9,7 @@ const style = {
 
 function App() {
 
-  const [isInitPage, setIsInitPage] = useState(false);
+  const [isInitPage, setIsInitPage] = useState(true);
 
   const handleGoto = () => {
     setIsInitPage(!isInitPage);
